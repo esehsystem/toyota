@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.91.171.129:808/repository/toyotacrossstagesnapshot/</url>
+	      <url>http://54.91.171.129:8081/repository/toyotacrossstagesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
