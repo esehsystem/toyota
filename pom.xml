@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.91.179.239:8081/repository/toyotarelease/</url>
+	      <url>http://54.211.126.255:8081/repository/toyotarelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.91.179.239:8081/repository/toyotasnapshot/</url>
+	      <url>http://54.211.126.255:8081/repository/toyotasnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
