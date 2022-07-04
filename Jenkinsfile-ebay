@@ -32,6 +32,4 @@ Landmark Tecxhnologies''', subject: 'Build status', to: 'developers'
   stage('prod-Deploy'){
      deploy adapters: [tomcat9(credentialsId: 'deploy', path: '', url: 'http://44.204.66.109/:8000/')], contextPath: null, war: 'target/*.war'
   }
-  }
-
 }
